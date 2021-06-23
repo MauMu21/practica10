@@ -1,5 +1,5 @@
 
-package aux_21_06_2021_tarea10;
+package practica10;
 import java.util.*;
 public class e {
               private int matriz[][];
