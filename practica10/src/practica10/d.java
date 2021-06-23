@@ -1,5 +1,5 @@
 
-package aux_21_06_2021_tarea10;
+package practica10;
 
 public class d {
                private int matriz[][];
