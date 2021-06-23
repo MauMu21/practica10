@@ -1,5 +1,5 @@
 
-package aux_21_06_2021_tarea10;
+package practica10;
 import java.util.*;
 public class insertar {
    private Object nodos[];
@@ -26,7 +26,7 @@ public class insertar {
        String res=cin.next();
        if(res.toUpperCase().equals("S"))
        {
-           System.out.println("Iserte el nodo");
+           System.out.println("Inserte el nodo");
            Object B=cin.next();
            System.out.println("inserte el peso");
            int peso = cin.nextInt();
